@@ -1,7 +1,7 @@
 - im nev
-- interested in decentralizing and improving bad-designed systems
+- interested in decentralizing and improving bad-designed systems through decentralizing them and giving operation to actual users
 - currently learning to build on ethereum and solana
-- looking to collaborate on education meets web3 stuff
+- looking to collaborate on education meets web3 stuff / simple DAO games / social tokens, just happy to talk and share ideas
 - reach me on twitter @neverbarks
 
 <!---
